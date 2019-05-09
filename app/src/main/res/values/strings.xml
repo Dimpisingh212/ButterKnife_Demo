@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ButterKnife_Demo</string>
+    <string name="demo">Demo for String</string>
+</resources>
